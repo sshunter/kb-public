@@ -32,6 +32,8 @@ molassess so this might need to be re-used.
 
 First attampt I am using the "whole wheat" cycle "because rye flour is denser
 than wheat flour and requires a longer kneading time and shorter rising time to
-achieve a good rise and texture." 
+achieve a good rise and texture."
+
+It collapsed a bit first attempt. I will use 3.5 cups flour total next time.
 
 **Source**: ChatGPT again, sanity-checked against random searches
