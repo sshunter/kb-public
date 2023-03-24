@@ -1,0 +1,2 @@
+- [Monkeypatch fetch (Javascript)](monkeypatch-fetch-js.md)
+- [Monkeypatch fetch (Typescript)](monkeypatch-fetch-ts.md)
