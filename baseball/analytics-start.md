@@ -1,6 +1,7 @@
 Here are some resources that you can use to learn about baseball analytics:
 
-These resources are not ranked in any particular order but they are all great starting points for beginners who want to learn about baseball analytics.
+These resources are not ranked in any particular order but they are all great
+starting points for beginners who want to learn about baseball analytics.
 
 ## Stuff to start with
 
