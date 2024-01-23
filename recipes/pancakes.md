@@ -1,7 +1,7 @@
 # Pancakes
 
 Servings: 9 small pancakes
-Prepration Time: maybe 20 minutes(?)
+Preparation Time: maybe 20 minutes(?)
 
 ## Ingredients
 
