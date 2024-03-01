@@ -35,30 +35,40 @@ services:
 networks: {}
 ```
 
-I then started the thing and connected to it with a shell so I could set a
+For the password, I left WEBPASSWORD commented out and then started the thing
+and connected to it in a shell so I could set a
 password with `pihole -a -p`
 [Reference](https://discourse.pi-hole.net/t/how-do-i-set-or-reset-the-web-interface-password/1328)
 
-
-And that was  really it.
+And that was really it.
 
 ## Configuration
 
-I logged into /admin and looked at Settings.
-
-
+I logged into /admin and looked at Settings. Only took notes on DNS but I messed
+with the block lists a lot, mostly choosing tracker blocking.
 
 ### DNS
 
 **Upstream DNS Servers:** Quad9 (filtered, DNSSEC). I checked all for boxes, am
 not sure if the IPv6 are actually used here.
 
+#### EERO side
 
-**TODO:** And this is where things went blat. I haven't sorted out how to get a
-IPv6 address for the server that eero is happy with.
+In the app, on the DNS settings page, set IPv4 Primary and Secondary to the same
+IPv4 address of the server. And do the same for both IPv6 address. Use the IPv4
+and IPv6 addresses shown in the app for the server.
 
-- eero shows no IPv6 associated with the server (unlile my nvidia shield which
-shows both IPv4 and IPv6)
+The only thing that worries me is I have no option to reserve the IPv6 address,
+I may end up configuring the server to have static address and trust that eero
+won't reassign it.
+
+#### What if I don't get an Ipv6 address
+
+- When I started, eero showed no IPv6 associated with the server (unlikee my
+nvidia shield which showed both IPv4 and IPv6)
 - My big brain idea to simply convert the IPv4 address to its IPv6
-representation isn't working either. That one hurts my big brain and I am
-setting this aside.
+representation didn't work, I still am not sure why.
+- What worked? => I updated eero, which rebooted eero, then I rebooted
+server to get it back on network. And now I have an IPv6 address.
+
+
