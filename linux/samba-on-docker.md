@@ -15,7 +15,7 @@ version: "3"
 services:
   samba:
     build: .
-    image: ghcr.io/servercontainers/samba:latest
+    image: ghcr.io/servercontainers/samba:smbd-only-latest
     restart: always
     ports:
       - 445:445 # SMB Protocol  
@@ -46,10 +46,3 @@ services:
       - /mnt/seagate/shunter:/shares/shunter
 networks: {}
 ```
-
-## TODO 
-
-- Sometime when I am bored, look in the sbmd-only build of the container. I did
-  not switch to it now because its a month older than `samba:latest` and its not
-  clear if that's oversight or intentional
-

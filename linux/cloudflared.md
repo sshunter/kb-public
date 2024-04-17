@@ -2,6 +2,43 @@
 
 ## Cloudflare in a docker container
 
+I added a new service to my [jellyfin](./nginx-proxy-manager.md)'s stack via its
+docker compose file.
+
+```
+  cloudflared:
+    image: cloudflare/cloudflared
+    container_name: cloudflare-tunnel
+    restart: unless-stopped
+    command: tunnel run
+    environment:
+      - TUNNEL_TOKEN=${TUNNEL_TOKEN}
+    depends_on:
+      - jellyfin
+```
+
+The TUNNEL_TOKEN is acquired from cloudflare's Tunnels page (apologies I have no
+idea how to link that generically yet). You create a tunnel and follow the
+prompts and will eventually (step3?) be presented with the token to add the .env
+file.  Once done, follow the rest of the prompts. 
+
+At the end I have 
+
+Tunnel name: home-proxy  
+Public hostnames
+| hostname                  | path | service              |
+|---------------------------|------|----------------------|
+| jeffyfin.publicdomain.com | *    | http://jellyfin:8096 |
+
+
+> **WARNING** I added this to the .env file via the dockge page, but the .env
+> file created by dockge is world readable and that seems to
+> defeat the purpose. So `chmod o-r .env` from an ssh login after you set the
+> first variable (this means I need to `sudo docker` for some ops on the 
+> stack
+
+## Cloudflare in a docker container, shared network for multiple containers
+
 I added a new service to my [proxy](./nginx-proxy-manager.md)'s stack via its
 docker compose file.
 
