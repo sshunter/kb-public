@@ -35,7 +35,8 @@ Public hostnames
 > file created by dockge is world readable and that seems to
 > defeat the purpose. So `chmod o-r .env` from an ssh login after you set the
 > first variable (this means I need to `sudo docker` for some ops on the 
-> stack
+> stack)
+
 
 ## Cloudflare in a docker container, shared network for multiple containers
 
