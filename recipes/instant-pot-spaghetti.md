@@ -32,4 +32,3 @@ Note: When you first open the lid after noodles cook, there will likely be a sma
 ## Notes
 
 **Reheating leftovers** - To reheat spaghetti leftovers, add splashes of cooking liquid during reheat because the starch continually absorbs moisture.
-
