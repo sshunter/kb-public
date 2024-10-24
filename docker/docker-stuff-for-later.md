@@ -1,8 +1,4 @@
-# Docker
-
-> **TODO:** Move the install notes here
-
-## Things to look at later
+# Docker Stuff For Later
 
 [dumb-init]()
 : dumb-init is a simple process supervisor and init system designed to run as
