@@ -52,6 +52,7 @@ fetch('https://jsonplaceholder.typicode.com/posts/1')
     console.error('Error:', error);
   });
 ```
+
 We first define the myHeaderName and myHeaderValue constants. We then define the
 types Fetch and Options to make the code more type-safe.
 
