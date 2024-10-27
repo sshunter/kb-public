@@ -21,26 +21,26 @@ too quickly, it's still not a great dessicant.
 
 Day 0 is 2027-10-24
 
-### 30hg kitty litter
+### 30g kitty litter
 
-| Total Weight | Container Weigth | Dessicant Weight | Absorbed Weight | Day # |
+| Total Weight | Container Weight | Dessicant Weight | Absorbed Weight | Day # |
 | :----------: | :--------------: | :--------------: | :-------------: | :---: |
 |      36      |        6         |        30        |        0        |   0   |
 
 ### 30g indicating dessicant
 
-| Total Weight | Container Weigth | Dessicant Weight | Absorbed Weight | Day # |
+| Total Weight | Container Weight | Dessicant Weight | Absorbed Weight | Day # |
 | :----------: | :--------------: | :--------------: | :-------------: | :---: |
 |      40      |        10        |        30        |        0        |   0   |
 
 ### 1/4 cup kitty litter
 
-| Total Weight | Container Weigth | Dessicant Weight | Absorbed Weight | Day # |
+| Total Weight | Container Weight | Dessicant Weight | Absorbed Weight | Day # |
 | :----------: | :--------------: | :--------------: | :-------------: | :---: |
 |     224      |       198        |        26        |        0        |   0   |
 
 ### 1/4 cup indicating dessicant
 
-| Total Weight | Container Weigth | Dessicant Weight | Absorbed Weight | Day # |
+| Total Weight | Container Weight | Dessicant Weight | Absorbed Weight | Day # |
 | :----------: | :--------------: | :--------------: | :-------------: | :---: |
 |     257      |       197        |        60        |        0        |   0   |
