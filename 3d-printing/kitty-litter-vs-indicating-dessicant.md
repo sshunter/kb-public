@@ -1,6 +1,8 @@
 # Kitty Litter vs. Indicating Dessicant
 
-A little science to see if the indicating dessicant I purchased from Amazon is worth the cost over the silica gel kitty litter I bought years ago and recently redried. Worth means usefulness as a dessicant for my 3d filaments.
+A little science to see if the indicating dessicant I purchased from Amazon is
+worth the cost over the silica gel kitty litter I bought years ago and recently
+redried. Worth means usefulness as a dessicant for my 3d filaments.
 
 ## Overview
 
@@ -26,21 +28,42 @@ Day 0 is 2027-10-24
 | Total Weight | Container Weight | Dessicant Weight | Absorbed Weight | Day # |
 | :----------: | :--------------: | :--------------: | :-------------: | :---: |
 |      36      |        6         |        30        |        0        |   0   |
+|      39      |        6         |        33        |        3        |   1   |
+|      40      |        6         |        34        |        4        |   2   |
+|      40      |        6         |        34        |        4        |   3   |
+|      40      |        6         |        34        |        4        |   4   |
+|      39      |        6         |        33        |        3        |   5   |
 
 ### 30g indicating dessicant
 
 | Total Weight | Container Weight | Dessicant Weight | Absorbed Weight | Day # |
 | :----------: | :--------------: | :--------------: | :-------------: | :---: |
 |      40      |        10        |        30        |        0        |   0   |
+|      41      |        10        |        31        |        1        |   1   |
+|      42      |        10        |        32        |        2        |   2   |
+|      43      |        10        |        33        |        3        |   3   |
+|      43      |        10        |        33        |        3        |   4   |
+|      43      |        10        |        33        |        3        |   5   |
 
 ### 1/4 cup kitty litter
 
 | Total Weight | Container Weight | Dessicant Weight | Absorbed Weight | Day # |
 | :----------: | :--------------: | :--------------: | :-------------: | :---: |
 |     224      |       198        |        26        |        0        |   0   |
+|     225      |       198        |        27        |        1        |   1   |
+|     225      |       198        |        27        |        1        |   2   |
+|     225      |       198        |        27        |        1        |   3   |
+|     225      |       198        |        27        |        1        |   4   |
+|     225      |       198        |        27        |        1        |   5   |
 
 ### 1/4 cup indicating dessicant
 
 | Total Weight | Container Weight | Dessicant Weight | Absorbed Weight | Day # |
 | :----------: | :--------------: | :--------------: | :-------------: | :---: |
 |     257      |       197        |        60        |        0        |   0   |
+|     259      |       197        |        62        |        2        |   1   |
+|     264      |       197        |        67        |        7        |  3*   |
+|     265      |       197        |        67        |        8        |   4   |
+|     265      |       197        |        68        |        9        |   5   |
+
+\* I failed to save day 2 apparently
