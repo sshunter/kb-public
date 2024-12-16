@@ -13,6 +13,4 @@ String.prototype.replaceAll = function(this: string, search: string, replacement
 ```
 
 Documentation on `declare global` and similar ideas can be found at
-https://www.typescriptlang.org/docs/handbook/declaration-merging.html#global-namespace-and-global-modules
-
-
+<https://www.typescriptlang.org/docs/handbook/declaration-merging.html#global-namespace-and-global-modules>

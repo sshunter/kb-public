@@ -1,4 +1,4 @@
-[#](#.md) Monkeypatching fetch (Typescript)
+# Monkeypatching fetch (Typescript)
 
 **Note**: Untested code from ChatGPT, will be tested and expanded when I need
 it.
