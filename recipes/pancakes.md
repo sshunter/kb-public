@@ -26,5 +26,5 @@ Preparation Time: maybe 20 minutes(?)
 6. When bubbles appear on top surface and begin to break, turn over and cook the
    other side.
 
-Source: https://www.food.com/recipe/pancakes-25690  
+Source: <https://www.food.com/recipe/pancakes-25690>
 Notes: Easy to make
