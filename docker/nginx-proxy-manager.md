@@ -3,12 +3,12 @@
 > **Note** I have disabled this container in dockge so things may need to be
 > reconfigured if need this.
 
-https://nginxproxymanager.com/
+<https://nginxproxymanager.com/>
 
 ## Setup
 
-- https://nginxproxymanager.com/guide/#hosting-your-home-network
-- https://nginxproxymanager.com/setup/
+- <https://nginxproxymanager.com/guide/#hosting-your-home-network>
+- <https://nginxproxymanager.com/setup/>
 
 I stuck with the defaults and am thus using sqlite.
 
@@ -26,6 +26,7 @@ now we are starting with [jellyfin](./jellyfin.md)
 First edit nginx-proxy's compose.yml
 ```yaml
 # Add the following block to the app service.
+
   networks:
     - shared-proxy-netowrk
 
