@@ -4,6 +4,11 @@ A little science to see if the indicating dessicant I purchased from Amazon is
 worth the cost over the silica gel kitty litter I bought years ago and recently
 redried. Worth means usefulness as a dessicant for my 3d filaments.
 
+*Update* Based on these results I use proper dessicant for storage. I have been
+using the silica gel kitty litter when annealing prints (as a substitute for
+sand) successfully. I would use the kitty litter for dessicant in a pinch, but
+as a stop gap to get the "good stuff".
+
 ## Overview
 
 I have 2 containers of the indicating dessicant and 2 containers of the kitty
