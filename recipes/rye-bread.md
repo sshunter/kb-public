@@ -3,7 +3,7 @@
 Here's a recipe for a 1 1/2 lb loaf of rye bread that can be made in a bread
 machine:
 
-## Ingredients:
+## Ingredients
 
 - 1 1/8 cups water
 - 2 tablespoons vegetable oil
@@ -13,7 +13,7 @@ machine:
 - 1 cup rye flour
 - 2 teaspoons active dry yeast
 
-## Instructions:
+## Instructions
 
 1. Add all the ingredients to the bread machine pan in the order listed.
 2. Select the "basic" or "whole wheat" cycle, depending on your bread machine.
@@ -22,7 +22,7 @@ machine:
 5. Once the cycle is complete, remove the bread from the machine and let it cool
    on a wire rack before slicing.
 
-## Notes:
+## Notes
 
 This recipe should yield a flavorful and hearty loaf of rye bread that can be
 enjoyed for sandwiches, toast, or simply on its own.

@@ -1,7 +1,7 @@
 # Cast Iron Cornbread
 
 Servings: 8
-Preparation Time: 45 mintes (20 minutes prep)
+Preparation Time: 45 minutes (20 minutes prep)
 
 The cast iron pan really does make all the difference. It gives the edges a nice
 buttery crispness. Make sure you give the oven and the pan plenty of time to
@@ -39,4 +39,3 @@ from his version. by Kitchen Ninja.
    upside down) and devour.
 
 Source: <https://www.food.com/recipe/cast-iron-cornbread-284033>
-
