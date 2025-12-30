@@ -5,9 +5,7 @@ markdown file.
 
 `Open Diary Entry` in the command pallette.
 
-- Code currently lives at
-  ~\Documentswork\vs-code-daily-diary-extension\daily-diary-extension on my windows pc
-  but this will change when I clean it up.
+- Code repo: <https://github.com/sshunter/daily-diary-extension.git>
 - To install the extension from disk
   - `npx @vscode/vsce package`
   - In VSCode you can install from command palette with "Extensions: Install from VSIX..."
