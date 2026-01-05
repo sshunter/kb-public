@@ -9,8 +9,8 @@
 ## Install
 
 - Follow their readme, I'm using winget and powershell so we'll do that
-  - `winget install --id Schniz.fnm`
-  - Add `fnm env --use-on-cd --shell powershell | Out-String |
-    Invoke-Expression` to your profile ($profile is path in powershell window)
+    - `winget install --id Schniz.fnm`
+    - Add `fnm env --use-on-cd --shell powershell | Out-String |
+      Invoke-Expression` to your profile ($profile is path in powershell window)
 
-I haven't dont any customization beyond that
+I haven't dont any customization beyond that.
