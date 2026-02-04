@@ -2,9 +2,8 @@
 
 I want to restart unhealth containers. This isn't baked into docker (yet?)
 
-I found this [autheal image](https://hub.docker.com/r/willfarrell/autoheal/) and
+I found this [autoheal image](https://hub.docker.com/r/willfarrell/autoheal/) and
 am experimenting with it.
-
 
 ## Compose file
 
@@ -31,8 +30,8 @@ Then label the containers to be modified (in docker compose):
     autoheal: true
 ```
 
-> **N.B.** I think the docks are suspect. I believe
-> `AUTOHEAL_CONTAINER_LABEL=all` means I don't need to label cantainers to heal.
+> **N.B.** I think the docs are suspect. I believe
+> `AUTOHEAL_CONTAINER_LABEL=all` means I don't need to label containers to heal.
 > It will restart any that go unhealthy. To only watch labelled containers, I
 > should set `AUTOHEAL_CONTAINER_LABEL=autoheal` (where `autoheal` is the name
 > of the label being set, `autoheal` is the default label searched for if
