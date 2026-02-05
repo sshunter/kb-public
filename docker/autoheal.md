@@ -7,7 +7,7 @@ am experimenting with it.
 
 ## Compose file
 
-```
+```yaml
 version: "3.3"
 services:
   autoheal:
@@ -25,7 +25,7 @@ networks: {}
 
 Then label the containers to be modified (in docker compose):
 
-```
+```yaml
   labels:
     autoheal: true
 ```
@@ -39,7 +39,7 @@ Then label the containers to be modified (in docker compose):
 >
 > For now I am just leaving the label in place.
 
-## TODO 
+## TODO
 
 - I am unsure how this plays with the `retries` value set in healthchecks. Spend
   some time and figure that out.
