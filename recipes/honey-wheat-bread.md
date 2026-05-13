@@ -10,12 +10,12 @@ Note: This is a 2lb loaf
 - 1 1/8 cup warm water (110 degrees F)
 - 1/3 cup honey
 - 1/4 cup vegetable oil
-- 2 tsp active dry yeast
 - 1 tsp salt
 - 2 cups whole wheat flour
 - 1 1/2 cups unbleached all-purpose flour (have used bleached/white all-purpose
   in the past as well)
 - 1 tbs vital wheat gluten (I added this: 1tbs per 2 cups of **whole** wheat)
+- 2 tsp active dry yeast
 
 ## Instructions
 
