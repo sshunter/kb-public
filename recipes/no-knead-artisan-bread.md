@@ -32,8 +32,8 @@
 10. Place the shaped dough onto a piece of parchment paper.
 11. Carefully remove the hot Dutch oven from the oven. Lift the parchment and
     place the dough into the pot. Cover with the lid.
-12. Bake for 30 minutes with the lid on.
-13. Remove the lid and bake for 12 more minutes, until deeply golden and the
+12. Bake for 35 minutes with the lid on.
+13. Remove the lid and bake for 15 more minutes, until deeply golden and the
     internal temperature reaches 205°F.
 14. Remove the loaf and cool on a wire rack.
 
@@ -50,3 +50,4 @@ Google Doc: <https://docs.google.com/document/d/13Xu3nT2qaXGp0rmrQ0zFU52Yiq-4RaO
 - You might need to wait longer than 2 hours to rise.
 - If I am subbing in whole wheat flour, I add the usual 1/2 Tbsp vital wheat
   gluten per cup of whole wheat flour.
+- Original time was 30 minutes covered then 12 uncovered
