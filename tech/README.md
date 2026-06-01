@@ -1,2 +1,3 @@
 - [Monkeypatch fetch (Javascript)](monkeypatch-fetch-js.md)
 - [Monkeypatch fetch (Typescript)](monkeypatch-fetch-ts.md)
+- [Add function to String prototype](add-function-to-string-prototype.md)
