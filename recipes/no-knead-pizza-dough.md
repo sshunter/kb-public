@@ -1,5 +1,7 @@
 # No Knead Pizza Dough
 
+Enough dough for 4 10" crusts
+
 ## Ingredients
 
 - 4 cups (500g) all-purpose flour
